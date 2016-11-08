@@ -7,6 +7,7 @@ target 'ACEapp' do
 
   # Pods for ACEapp
 pod 'Firebase/Core'
+pod 'Firebase/Database'
 
   target 'ACEappTests' do
     inherit! :search_paths
